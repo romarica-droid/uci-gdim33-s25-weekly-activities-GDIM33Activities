@@ -10,9 +10,8 @@
 3. One of the LA's at my table that came up to see my board really and liked Twilight princess. We talked about how we both have not completed Twilight princess but have a very fond apperication of the game. Futhurmore, he also regonized the bleach drawing and was familiar with the anime but hadn't really watched the show.
 
 
-### Activity 2
-Put your activity 2 image here. REMOVE THIS INSTRUCTIONAL TEXT.
-
+### Activity 2  
+![alt text](<Game project test.png>)
 
 ## W2
 Write your W2 Devlog here.
