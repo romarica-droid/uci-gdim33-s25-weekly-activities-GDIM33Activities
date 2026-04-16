@@ -17,3 +17,17 @@
 Write your W2 Devlog here.
 
 Continue adding additional headers below this one for future weeks and future activities.
+
+
+## W2
+### Activity 1
+![alt text](<Boostpads Collider.png>)
+
+### Activity 2
+1. Saving the event names for state transition as scene variables is useful because it makes the events triggable throughout every graph. Since the names of the graphs are saved as scene variables, that name and event is accesible through every graph of the scene. 
+
+2. While testing if the onMouseDown event work, the debug tool message tool was useful to know at an early stage if the interaction worked correctly. For instance, when i first made the graph, i got an error message first, and after debugging, the debug message i created notified me that the code was working correctly. 
+
+3. My game I need a break will be using a Set Cursor Lock State. Since my game is a first person that will also have a dialogue system similar to the demo, i will defeintely be using a cursor lock state to switch between the UI and gameplay.
+
+4. My game I need a break may have a use to have a game state. When the player spawns in, i want there to be a small area they can interact with NPC's or just walk around, and then start the obstacle course once they finish there interaction with the NPC is finished. For this, i could implement 2 states, one where the player is wandering, and another where the player is actively locked in the obstacle course.
