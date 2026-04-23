@@ -19,7 +19,7 @@ Write your W2 Devlog here.
 Continue adding additional headers below this one for future weeks and future activities.
 
 
-## W2
+## W3
 ### Activity 1
 ![alt text](<Boostpads Collider.png>)
 
@@ -31,3 +31,29 @@ Continue adding additional headers below this one for future weeks and future ac
 3. My game I need a break will be using a Set Cursor Lock State. Since my game is a first person that will also have a dialogue system similar to the demo, i will defeintely be using a cursor lock state to switch between the UI and gameplay.
 
 4. My game I need a break may have a use to have a game state. When the player spawns in, i want there to be a small area they can interact with NPC's or just walk around, and then start the obstacle course once they finish there interaction with the NPC is finished. For this, i could implement 2 states, one where the player is wandering, and another where the player is actively locked in the obstacle course.
+
+## W4
+### Activity 1
+Currently, my playtest has:
+-First person movement with a jump, dash, and sprint
+-a sample obstacle course 
+-Sceneic game objedcts 
+
+My playtest goal is to see if the players can:
+-Complete the sample obstacle
+-stress test my movement mechanics
+
+Playtest members
+Evrin Lee, Nicole Yang
+
+Notes:
+-Jumping is very inconsistent (will be higher sometimes than others)
+-Like the city assets 
+-Not able to know how sprint and dash work 
+-Can complete the obstacle course, but VERY hard
+
+
+
+
+
+
