@@ -9,6 +9,13 @@ namespace W4Activity
         // do not edit this line
         public static DialogueAdvancerW4 _Instance {get; private set;}
 
+        [SerializeField] private DialogueNodeW4 line;
+
+        private void Start()
+        {
+            ChooseDialogue(line);
+        }
+
         // More Singleton stuff
         // do not edit this method
         private void Awake() {
