@@ -14,9 +14,6 @@
 ![alt text](<Game project test.png>)
 
 ## W2
-Write your W2 Devlog here.
-
-Continue adding additional headers below this one for future weeks and future activities.
 
 
 ## W3
@@ -60,6 +57,25 @@ The writer could make an infinte number of dialogue nodes as long as there is 4 
 
 Regenrate nodes is a project function that will look for any missing or new nodes added to the unity project and will restore/add them to the project. Since the programmer can make there own events and other nodes on top of the preset unity nodes, unity accounts for this by having a designated button to add any more nodes that are not apart of the base unity nodes. Additonally, if the unity project has any missing nodes from errors or bugs, the regenerate node button will restore them. 
 
+## W5
+### Activity 1
+feature: NPC interaction
+
+1. When the NPC is clicked, a dialogue box appears
+    1. Grab the game object that hold the Dialogue UI
+    2. Use OnMouseDown() to see when the player clicks on the NPC
+    3. Freeze the movement of the player rigidbody and Open the Dialogue UI box
+2. When the player clicks the dialogue button, a new prompt appears
+    1. Create a scriptable object that holds the lines of the NPC
+    2. Grab a button on the Dialogue UI box
+    3. Everytime the player clicks on the Button, new text appear.
+3. When the player finishes all of the text, The player is teleported to the beginning of the level
+    1. Get the length of the scriptable object to see how big the list of lines are
+    2. Once the player gets to the last piece of text, Send an event to the game controller telling the game started
+    3. Spawn the player at the beginning of the level
+
+### Activity 2
+Today, i was able to get a majority of the NPC interaction done. I was able to get the dialogue box to open when the player clicks on the Object with the NPC interactino script, as well as unlock the mouse and show the cursor. Futhurmore, the player can advance the dialogue by pressing the button on the dialogue box. Finally, i created my GameController locator and invoked an event that will activate once the dialogue is finished.
 
 
 
