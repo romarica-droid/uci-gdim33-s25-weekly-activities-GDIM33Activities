@@ -78,6 +78,28 @@ feature: NPC interaction
 Today, i was able to get a majority of the NPC interaction done. I was able to get the dialogue box to open when the player clicks on the Object with the NPC interactino script, as well as unlock the mouse and show the cursor. Futhurmore, the player can advance the dialogue by pressing the button on the dialogue box. Finally, i created my GameController locator and invoked an event that will activate once the dialogue is finished.
 
 
+## W6
+### Activity 1 
+New: 
+-Added NPC (Not anims yet) and functinoality to spawn player into spawn level 
+-Readjusted grouded detection that makes the game run smoother 
+-changed the movement feeling to a more "slippery" style
+
+[Itch Link](https://romarick-a.itch.io/i-need-a-break-milestone-2)
+
+Playtest Goals:
+-See if players like the improved movement 
+-See if players can understand what to do with little on screen guidance
+-See if player can complete the course with a little difficulty
+
+Notes:
+
+
+### Activity 2
+
+
+
+
 
 
 
