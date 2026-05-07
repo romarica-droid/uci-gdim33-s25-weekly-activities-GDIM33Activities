@@ -101,13 +101,13 @@ Notes:
 
 
 ### Activity 2
-When applying the mutiplier setting on the blend node, all of RGB values are mutiplied with each other. Since all of the RGB values are values between 0.0 and 1.0, that means when mutiplying the very small decimal number with each other, the resulting value will become smaller, making the final color darker as a result.
+1. When applying the mutiplier setting on the blend node, all of RGB values are mutiplied with each other. Since all of the RGB values are values between 0.0 and 1.0, that means when mutiplying the very small decimal number with each other, the resulting value will become smaller, making the final color darker as a result.
 
-Since the mutiply setting mutiplies the small values from 0.0 to 1.0, by adding the alpha channel, the material will become more translucent since the alpha value will become smaller.
+2. Since the mutiply setting mutiplies the small values from 0.0 to 1.0, by adding the alpha channel, the material will become more translucent since the alpha value will become smaller.
 
-Since the sample2D is grabbing another texture2D, the node is pulling the coordinates from the game object that our texture2D is applied to.
+3. Since the sample2D is grabbing another texture2D, the node is pulling the coordinates from the game object that our texture2D is applied to.
 
-I do find the concept of manipulating colors with numbers since I can fine tune saturation and the brigtness of colors without having to check and guess with a premade slider.
+4. I do find the concept of manipulating colors with numbers since I can fine tune saturation and the brigtness of colors without having to check and guess with a premade slider.
 
 
 
