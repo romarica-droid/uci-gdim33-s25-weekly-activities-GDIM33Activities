@@ -110,6 +110,21 @@ Notes:
 4. I do find the concept of manipulating colors with numbers since I can fine tune saturation and the brigtness of colors without having to check and guess with a premade slider.
 
 
+## W7
+### Acitivty 1
+1. The vertex data that is used for the debug shader comes from the shiba inu's mesh data, that tells the graph the different vector points which then disperses among the shiba inu model. 
+ 
+2. Since the mesh is dispersing the colors among different axis on the model (x, y, z), when the color on the material notices that it is on a new axis of the model, it fills in that spot with the color with its respective color. For instance, on the mesh of the model, the coloring of the model is red on the y axis, however as soon as the material reaches a different axis, it replaces that color with either blue or green.
+
+3. The shiba inu with vertex colors is less detailed than last weeks texture since it does not directly use the texture2D of the shiba inu, marking the position as best it can with the model data.
+
+4. The nomrals of the shiba inu intially are point away from the model itself, which is strange since
+
+5. Another kind of data that can be used that can be used with a debug shade is a alpha data value to test if the transparency of an object is being mapped correctly.
+
+6. Since the mesh of the model is a 2D image, it does not account for the back of the quad's model since it would go into another dimension, making the image only appear on the front of the model. 
+
+7. By using a additive feature to animate the model for the fire texture, the Texture would simulate an effect of moving up since the y axis coordiante of the map would increase a constant speed. 
 
 
 
