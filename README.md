@@ -118,7 +118,7 @@ Notes:
 
 3. The shiba inu with vertex colors is less detailed than last weeks texture since it does not directly use the texture2D of the shiba inu, marking the position as best it can with the model data.
 
-4. The nomrals of the shiba inu intially are point away from the model itself, which is strange since
+4. The nomrals of the shiba inu are weird since they either shade the dog in a random way and cut off at certain parts of the model.
 
 5. Another kind of data that can be used that can be used with a debug shade is a alpha data value to test if the transparency of an object is being mapped correctly.
 
