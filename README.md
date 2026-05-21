@@ -127,4 +127,29 @@ Notes:
 7. By using a additive feature to animate the model for the fire texture, the Texture would simulate an effect of moving up since the y axis coordiante of the map would increase a constant speed. 
 
 
+## W8
+### Activity 1
+Whats New:
+-Attempt at post processing effect 
+-New fast descent
+-decreased sensitivty 
+-More grounded drag
+
+Playtest goals:
+-See how players like effect and how to expand on it
+-see if players feel better on the ground
+-see if the players can complete level
+
+Playtest notes:
+-Itch has a weird bug that makes the jumping act differently, fix it 
+    -Grounded drag also affected
+-Liked the effect, will expand on it later
+-mouse sensitivty was a bit better
+
+-beginning direction is a bit hard, but can fix after mechanics are tweaked
+
+### Activity 2
+Doing: 2C
+
+
 
