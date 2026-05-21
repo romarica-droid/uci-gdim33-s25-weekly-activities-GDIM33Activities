@@ -155,9 +155,9 @@ Doing: 2C
 
 2. At 0.5, the custom texture can slighlty be seen on the screen, whereas the custom texture with a lerp value of 1 can be seen fully and cannot be seen when a lerp value set to 0.
 
-3. by changing the lerp value, the node works similar to an alpha value, changing the opactity of the custom texture to either be more or less visible.
+3. By changing the lerp value, the node works similar to an alpha value, changing the opactity of the custom texture to either be more or less visible.
 
-4. by leaving the algorithmn alone, the sin value will flucatute between 1, 0, and negative 1 since it is using a time function in terms of sin. However, since the y values of the graph can only read numbers between 0 and 1, you have to make sure the value of the the alogrithmn is always postive and between 1 and 0.
+4. By leaving the algorithmn alone, the sin value will flucatute between 1, 0, and negative 1 since it is using a time function in terms of sin. However, since the y values of the graph can only read numbers between 0 and 1, you have to make sure the value of the the alogrithmn is always postive and between 1 and 0.
 
 
 
