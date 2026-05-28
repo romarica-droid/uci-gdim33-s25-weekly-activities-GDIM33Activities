@@ -178,6 +178,11 @@ Xray Vision:
 
 
 ### Activity 2
+Used PostProcessingVolume system built in unity, here is the snippet of code that i used processing effect.
+![alt text](image-2.png)
+![alt text](image-3.png)
+
+For my game, i wanted to make the screen have a black circle aruond the camera when the player started to sprint. However, when i was trying to directly change the value of the vignette within the post processing volume componet, i kept getting an error that the vignette componet could not be obtained. After some tinkering, i decide to just change the intensity of the post processing volume componet itself rather than the vignette effect since the same result would come out.
 
 
 
