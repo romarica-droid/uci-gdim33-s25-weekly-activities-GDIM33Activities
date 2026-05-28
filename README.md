@@ -159,5 +159,27 @@ Doing: 2C
 
 4. By leaving the algorithmn alone, the sin value will flucatute between 1, 0, and negative 1 since it is using a time function in terms of sin. However, since the y values of the graph can only read numbers between 0 and 1, you have to make sure the value of the the alogrithmn is always postive and between 1 and 0.
 
+## W9
+### Activity 1
+Game: Detroit Become Human
+
+1. Xray vision during playback interactions 
+
+Normal Gameplay:
+![alt text](image-1.png)
+
+Xray Vision:
+![alt text](image.png)
+
+    We would need to change the rendering effect on the camera to turn edown the saturation of the game (this is a fullscreen rendering effect)
+
+    we would also need to make a second shader, attach the shader to a material and add the matieral to every interactable object. We need to code the shader to give the object a blue hue. Then, we'd need to turn it on whenever we enter "robot view" and turn it off in normal view in code (this is an object specific effect)
+
+
+
+### Activity 2
+
+
+
 
 
