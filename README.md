@@ -184,6 +184,48 @@ Used PostProcessingVolume system built in unity, here is the snippet of code tha
 
 For my game, i wanted to make the screen have a black circle aruond the camera when the player started to sprint. However, when i was trying to directly change the value of the vignette within the post processing volume componet, i kept getting an error that the vignette componet could not be obtained. After some tinkering, i decide to just change the intensity of the post processing volume componet itself rather than the vignette effect since the same result would come out.
 
+## W10
+### Activity 1
+New things in build:
+- Win condition that ends the game (no lose condition yet)
+- new skybox
+- custimozed lobby area
+- polished mechanics
+
+Playtest Goals:
+- Confirm core mechanics are polished
+- get feedback on post processing effect
+- get feedback on game direction 
+
+Notes:
+core mechanics are far better feeling 
+- Jump when respawn is alot but fixable
+really like scenery and level objects
+
+### Activity 2
+Brainstorm:
+- Choosing a genre of game that will be the main focus 
+- try and define locator variables before doing anything
+- writing down a diagram on paper  
+- Start with something/simple/easy to keep momentum from later strong 
+- define main concept of to build foundtation
+- playtest with other pepole to get constant feedback 
+- fix whats most limiting 
+- start with a basic UI that you can add onto
+
+For our planning straegy, my table came with first finding a genre, creating a diagram of the game, and starting with simple mechanic to build momentum in the creation of a game project.
+
+Often a more thoughout plan with a strong concept and small foundation will that is manageable to pull off make in order to add  onto the game easier, rather than having a rough idea and struggling to add content to your game. 
+
+### Activity 3
+
+Today since most of my movement features and gameplay is done, i decided to create a basic UI and add on later to make the UI more appealing since its very barebones. I created a starting screen that once a button is pressed, the title screen will disappear and play music.
+
+
+
+
+
+
 
 
 
